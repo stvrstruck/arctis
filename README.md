@@ -32,8 +32,6 @@
 ## 🧊 Quick Links
 - 🌐 [Official Website](https://arctis.fun)
 - 💬 [Telegram Bot](https://t.me/ArctisAIBot)
-- 📚 [Documentation](https://arctis.fun/docs)
-- 🤝 [Community](https://arctis.fun/community)
 
 ```ascii
     ┌──────────────────────────────────────────────────────────┐

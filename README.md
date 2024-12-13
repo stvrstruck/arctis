@@ -10,7 +10,6 @@
 
                             🧊 ARCTIS ECOSYSTEM 🧊
 
-```ascii
          ┌─────────────┐      ┌──────────────┐      ┌────────────┐
          │  Web Portal │      │ Telegram Bot │      │  Arc Core  │
          │ arctis.fun │ ←──→  │    @Arctis   │ ←──→ │   Engine   │
